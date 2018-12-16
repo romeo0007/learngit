@@ -1,3 +1,5 @@
 sample file
 file edited in github; pull to loca repo to see changes
 edited again
+
+edited in bash prompt
